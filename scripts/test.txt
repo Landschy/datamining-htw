@@ -1,3 +1,0 @@
-test file for Github cloning
-Git not working
-Is git working?
